@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ian Fox"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "A machine learning reseracher. Currently working at Facebook Applied AI Reserach."
+  bio    : "A machine learning researcher. Currently working at Facebook AI Applied Research."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
