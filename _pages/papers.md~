@@ -1,0 +1,31 @@
+---
+permalink: /publications/
+title: "Publications"
+---
+
+>I met a traveller from an antique land,  
+Who said—“Some vast and trunkless URLs of papers  
+Stand in the desert. . . . Near them, on the sand,  
+Half sunk a shattered visage lies, whose frown,  
+And wrinkled lip, and sneer of cold command,  
+Tell that its sculptor well those passions read  
+Which yet survive, stamped on these lifeless things,  
+The hand that mocked them, and the heart that fed;  
+And on the pedestal, these words appear:  
+My name is Ian, Scholar of Scholars;  
+Look on my Works, ye Mighty, and despair!  
+Nothing beside remains. Round the decay  
+Of that colossal Wreck, boundless and bare  
+The lone and level sands stretch far away.
+>
+>Ozymandian, by [Percy Shelly](https://www.poetryfoundation.org/poems/46565/ozymandias) and Ian Fox
+
+- [Machine Learning for Physiological Time Series: Representing and Controlling Blood Glucose for Diabetes Management](https://deepblue.lib.umich.edu/bitstream/handle/2027.42/163134/ifox_1.pdf?sequence=1) Doctoral Thesis, 2020
+- [Deep residual time-series forecasting: Application to blood glucose prediction](http://ceur-ws.org/Vol-2675/paper18.pdf) KDH@ECAI, 2020
+- [Deep Reinforcement Learning for Closed-Loop Blood Glucose Control](https://arxiv.org/abs/2009.09051) MLHC, 2020
+- [Advocacy Learning: Learning through Competition and Class-Conditional Representations.](https://arxiv.org/abs/1908.02723) IJCAI, 2019
+- [Reinforcement Learning for Blood Glucose Control: Challenges and Opportunities](https://openreview.net/forum?id=ByexVzSAs4) ICML RL4RealLife, 2019
+- [Deep Multi-Output Forecasting: Learning to Accurately Predict Blood Glucose Trajectories](https://arxiv.org/abs/1806.05357) KDD, 2018
+- [The Advantage of Doubling: A Deep Reinforcement Learning Approach to Studying the Double Team in the NBA](../assets/papers/SSAC2018_FINAL.pdf) MIT Sloan Sports Analytics Conference, 2018
+- [Contextual Motifs: Increasing the Utility of Motifs using Contextual Data](https://arxiv.org/abs/1703.02144) KDD, 2017
+- [Cell list algorithms for nonequilibrium molecular dynamics](https://www.sciencedirect.com/science/article/pii/S0021999116300213) Journal of Computational Physics, 2016 
